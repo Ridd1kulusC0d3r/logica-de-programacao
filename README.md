@@ -47,10 +47,6 @@ Fique à vontade para abrir uma *issue* ou enviar um *pull request*. Vamos const
 
 Boa jornada e feliz aprendizado! 🚀  
 
----
-
-Aqui está a versão formatada e didática para o seu **GitHub**, com Markdown e estrutura clara:
-
 ```
 # 🌟 Introdução à Lógica de Programação 🌟
 
