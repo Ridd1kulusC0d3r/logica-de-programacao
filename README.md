@@ -51,7 +51,7 @@ Boa jornada e feliz aprendizado! 🚀
 
 Aqui está a versão formatada e didática para o seu **GitHub**, com Markdown e estrutura clara:
 
-```markdown
+```
 # 🌟 Introdução à Lógica de Programação 🌟
 
 Antes de mergulharmos no **Python**, é essencial entender o que é **lógica de programação**, pois ela é a base de qualquer linguagem de programação. De forma simples, a lógica de programação envolve estruturar soluções para problemas de maneira sequencial e eficiente.
