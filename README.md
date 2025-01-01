@@ -41,13 +41,16 @@ Nem todos aprendem da mesma forma. Essa metodologia foi criada para:
 - **Curiosos:** Que desejam explorar diferentes abordagens para aprender programação.  
 - **Entusiastas:** Que valorizam o aprendizado multidimensional e gostam de explorar além do básico.  
 
----
 
 **📩 Quer contribuir ou compartilhar ideias?**  
 Fique à vontade para abrir uma *issue* ou enviar um *pull request*. Vamos construir um repositório ainda mais completo juntos!  
 
 Boa jornada e feliz aprendizado! 🚀  
 
+---
+Aqui está a versão formatada e didática para o seu **GitHub**, com Markdown e estrutura clara:
+
+```markdown
 # 🌟 Introdução à Lógica de Programação 🌟
 
 Antes de mergulharmos no **Python**, é essencial entender o que é **lógica de programação**, pois ela é a base de qualquer linguagem de programação. De forma simples, a lógica de programação envolve estruturar soluções para problemas de maneira sequencial e eficiente.
@@ -77,3 +80,107 @@ São diagramas que mostram o fluxo lógico de um problema.
 ### ✍️ **Pseudocódigo:**
 É um "esqueleto" textual que organiza o raciocínio antes de escrever o código.  
 **Exemplo básico:**
+```
+Início
+Leia número1, número2
+Soma ← número1 + número2
+Escreva Soma
+Fim
+```
+
+---
+
+## ⚙️ **Passo 2: Estruturas Básicas de Lógica**
+
+### **1️⃣ Sequência:**
+Resolver problemas em etapas lógicas.  
+**Exemplo prático:** "Como cozinhar um ovo."
+1. Encher a panela com água.
+2. Colocar a panela no fogão.
+3. Aguardar a água ferver.
+4. Colocar o ovo na água.
+5. Aguardar 10 minutos.
+
+---
+
+### **2️⃣ Decisão (Condicional):**
+Escolhas feitas com base em condições.  
+**Exemplo:** "Se estiver chovendo, leve um guarda-chuva."  
+**Pseudocódigo:**
+```
+Se (chovendo) então
+    Leve guarda-chuva
+Senão
+    Saia normalmente
+Fim se
+```
+
+---
+
+### **3️⃣ Repetição (Loop):**
+Executa ações repetidamente até que uma condição seja satisfeita.  
+**Exemplo:** "Encher uma garrafa gota a gota."  
+**Pseudocódigo:**
+```
+Enquanto (garrafa não cheia) faça
+    Adicionar uma gota
+Fim enquanto
+```
+
+---
+
+## 📝 **Exercícios Práticos Sem Código**
+
+### 🔹 **Problema 1: Verificar maioridade**
+**Descrição:** Leia a idade de uma pessoa e informe se ela é maior de idade.  
+**Pseudocódigo:**
+```
+Início
+Leia idade
+Se (idade >= 18) então
+    Escreva "Maior de idade"
+Senão
+    Escreva "Menor de idade"
+Fim se
+Fim
+```
+
+### 🔹 **Problema 2: Contar até 5**
+**Descrição:** Crie um programa que conte de 1 a 5.  
+**Pseudocódigo:**
+```
+Início
+Número ← 1
+Enquanto (número <= 5) faça
+    Escreva número
+    Número ← Número + 1
+Fim enquanto
+Fim
+```
+
+---
+
+## 🚀 **Passo 3: Comece a Resolver Problemas Simples**
+### **Desafios:**
+1. Planeje a lógica para calcular a média de três números.
+2. Estruture um jogo simples que verifica se um número escolhido é maior ou menor que outro.
+
+---
+
+## ❓ **Próximos Passos**
+**Está pronto para resolver esses desafios na prática?**  
+Podemos implementar os exemplos acima em **Python** ou criar novos exercícios para você continuar evoluindo. Como você prefere seguir? 😄
+
+---
+
+### **🌟 Feliz aprendizado!**
+Sinta-se à vontade para contribuir com ideias ou tirar dúvidas. Estou aqui para ajudar!
+```
+
+### **Dicas para o GitHub:**
+1. Use emojis no título e nas seções para torná-lo mais atraente.
+2. Divida o conteúdo em seções bem organizadas com cabeçalhos (`#`, `##`, `###`).
+3. Inclua exemplos claros e fáceis de seguir.
+4. Disponibilize exercícios práticos e desafios para engajar o leitor.
+
+Com essa estrutura, o material será didático e acessível tanto para crianças quanto para iniciantes. 🚀
