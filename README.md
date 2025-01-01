@@ -68,10 +68,6 @@ A lógica de programação é a capacidade de estruturar o raciocínio para reso
 - 🔄 **Repetição:** Ações repetidas (loops) enquanto uma condição for verdadeira.
 
 ---
-# 🌟 **Introdução à Lógica de Programação** 🌟
-
-
----
 
 ## **1️⃣ Guanabara 🥳**
 
