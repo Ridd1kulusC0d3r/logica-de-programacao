@@ -70,10 +70,6 @@ A lógica de programação é a capacidade de estruturar o raciocínio para reso
 ---
 # 🌟 **Introdução à Lógica de Programação** 🌟
 
----
-
-```markdown
-# 🌟 **Introdução à Lógica de Programação** 🌟
 
 ---
 
