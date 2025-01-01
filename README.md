@@ -12,7 +12,9 @@ Neste espaço, você encontrará lições de Python apresentadas de maneira úni
 Cada lição de Python é apresentada em três estilos diferentes:  
 1. **Guanabara** 🥳 – Um estilo descontraído, prático e visual, inspirado no famoso Gustavo Guanabara, ideal para iniciantes que adoram aprender com leveza e criatividade.  
 2. **Masanori (Python para Zombies)** 🧠 – Uma abordagem objetiva e hacker, para quem quer ir direto ao ponto com exemplos claros e rápidos.  
-3. **Fábio Akita** 💡 – Um mergulho filosófico e profundo nos conceitos, explorando o "porquê" por trás de cada elemento da linguagem.  
+3. **Fábio Akita** 💡 – Um mergulho filosófico e profundo nos conceitos, explorando o "porquê" por trás de cada elemento da linguagem.
+4. **Bender** 🤖 – Um toque sarcástico e rebelde, com humor ácido para quem gosta de aprender rindo.  
+5. **Homer Simpson** 🍩 – Simplicidade e descontração, trazendo a programação para o cotidiano de forma acessível e divertida.  
 
 ---
 
