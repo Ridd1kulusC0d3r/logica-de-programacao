@@ -47,7 +47,7 @@ Fique à vontade para abrir uma *issue* ou enviar um *pull request*. Vamos const
 
 Boa jornada e feliz aprendizado! 🚀  
 
-```
+---
 # 🌟 Introdução à Lógica de Programação 🌟
 
 Antes de mergulharmos no **Python**, é essencial entender o que é **lógica de programação**, pois ela é a base de qualquer linguagem de programação. De forma simples, a lógica de programação envolve estruturar soluções para problemas de maneira sequencial e eficiente.
@@ -64,7 +64,7 @@ A lógica de programação é a capacidade de estruturar o raciocínio para reso
 - 🔄 **Repetição:** Ações repetidas (loops) enquanto uma condição for verdadeira.
 
 ---
-```
+
 ## **1️⃣ Guanabara 🥳**
 
 🎉 Fala aí, pessoal! Antes de escrever código, precisamos entender a base: lógica de programação.  
@@ -87,7 +87,7 @@ Fim
 🎯 *Dica:* Fluxogramas ajudam a visualizar tudo antes de codar. Eles são o mapa do tesouro do seu programa!  
 
 ---
-```
+
 ## **2️⃣ Masanori (Python para Zombies) 🧠**
 
 🧠 Lógica é simples. Sem ela, seu código vai ser uma bagunça. Antes de programar, organize suas ideias.  
@@ -107,7 +107,7 @@ Fim
 🔍 *Dica:* Sempre pense no problema de forma sequencial. Fluxogramas simplificam os processos complexos.  
 
 ---
-```
+
 ## **3️⃣ Fábio Akita 💡**
 
 💡 Lógica de programação é mais que técnica: é filosofia aplicada.  
@@ -130,7 +130,7 @@ Fim
 🌌 *Dica:* Pseudocódigo é uma ferramenta poderosa para entender lógica sem se preocupar com sintaxe.  
 
 ---
-```
+
 ## **4️⃣ Bender 🤖**
 
 "Oi, carne humana! Lógica de programação? Que tédio… mas vamos nessa."  
@@ -152,7 +152,7 @@ Fim
 🍺 *Dica:* Não complique! Programar é fácil quando você faz com estilo (meu estilo).  
 
 ---
-```
+
 ## **5️⃣ Homer Simpson 🍩**
 
 🍩 "Lógica é como comer donuts. Só precisa saber por onde começar!"  
@@ -174,7 +174,7 @@ Fim
 😄 *Dica:* Simples é sempre melhor. Se ficou complicado, é porque não tem donuts suficientes.
 
 ---
-```
+
 
 -------------------------------------------------------------------------------------------------------------------------
 
