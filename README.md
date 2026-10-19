@@ -1,3 +1,5 @@
+<p align="center"><img src="assets/identity/banner.svg" alt="Python Zero → Pro — Entenda. Experimente. Explique." width="100%"></p>
+
 # 🐍 Python Zero → Pro
 
 > Uma jornada prática para aprender lógica, Python e engenharia de software construindo projetos reais.
